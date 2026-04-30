@@ -1366,24 +1366,24 @@
   "admin.batch-import.page.remove": "supprimer",
 
   // "audit.data.not-found": "No audits found.",
-  // TODO New key - Add a translation
-  "audit.data.not-found": "No audits found.",
+  // TODO Review translation
+  "audit.data.not-found": "Audits pas trouvés.",
 
   // "audit.data.self": "self",
   // TODO New key - Add a translation
   "audit.data.self": "self",
 
   // "audit.detail.metadata.field": "Metadata field:",
-  // TODO New key - Add a translation
-  "audit.detail.metadata.field": "Metadata field:",
+  // TODO Review translation
+  "audit.detail.metadata.field": "Champ de métadonnées:",
 
   // "audit.detail.metadata.value": "Value:",
-  // TODO New key - Add a translation
-  "audit.detail.metadata.value": "Value:",
+  // TODO Review translation
+  "audit.detail.metadata.value": "Valeur:",
 
   // "audit.detail.metadata.authority": "Authority:",
-  // TODO New key - Add a translation
-  "audit.detail.metadata.authority": "Authority:",
+  // TODO Review translation
+  "audit.detail.metadata.authority": "Autorité:",
 
   // "audit.detail.metadata.confidence": "Confidence:",
   // TODO New key - Add a translation
@@ -1391,63 +1391,63 @@
 
   // "audit.detail.metadata.place": "Place:",
   // TODO New key - Add a translation
-  "audit.detail.metadata.place": "Place:",
+  "audit.detail.metadata.place": "Place
 
   // "audit.detail.metadata.action": "Action:",
   // TODO New key - Add a translation
   "audit.detail.metadata.action": "Action:",
 
   // "audit.detail.metadata.checksum": "Checksum:",
-  // TODO New key - Add a translation
-  "audit.detail.metadata.checksum": "Checksum:",
+  // TODO Review translation
+  "audit.detail.metadata.checksum": "Somme de contrôle:",
 
   // "audit.overview.title": "All Audit Logs",
-  // TODO New key - Add a translation
-  "audit.overview.title": "All Audit Logs",
+  // TODO Review translation
+  "audit.overview.title": "Journaux d'audit",
 
   // "audit.overview.table.id": "Audit ID",
-  // TODO New key - Add a translation
-  "audit.overview.table.id": "Audit ID",
+  // TODO Review translation
+  "audit.overview.table.id": "ID audit",
 
   // "audit.overview.table.objectUUID": "Object ID",
-  // TODO New key - Add a translation
-  "audit.overview.table.objectUUID": "Object ID",
+  // TODO Review translation
+  "audit.overview.table.objectUUID": "ID d'objet",
 
   // "audit.overview.table.objectType": "Object Type",
-  // TODO New key - Add a translation
-  "audit.overview.table.objectType": "Object Type",
+  // TODO Review translation
+  "audit.overview.table.objectType": "Type d'objet",
 
   // "audit.overview.table.subjectUUID": "Subject ID",
-  // TODO New key - Add a translation
-  "audit.overview.table.subjectUUID": "Subject ID",
+  // TODO Review translation
+  "audit.overview.table.subjectUUID": "ID de subjet",
 
   // "audit.overview.table.subjectType": "Subject Type",
-  // TODO New key - Add a translation
-  "audit.overview.table.subjectType": "Subject Type",
+  // TODO Review translation
+  "audit.overview.table.subjectType": "Type de sujet",
 
   // "audit.overview.table.entityType": "Audit Type",
-  // TODO New key - Add a translation
-  "audit.overview.table.entityType": "Audit Type",
+  // TODO Review translation
+  "audit.overview.table.entityType": "Type d'audit",
 
   // "audit.overview.table.eperson": "EPerson",
   // TODO New key - Add a translation
   "audit.overview.table.eperson": "EPerson",
 
   // "audit.overview.table.other": "Object",
-  // TODO New key - Add a translation
-  "audit.overview.table.other": "Object",
+  // TODO Review translation
+  "audit.overview.table.other": "Objet",
 
   // "audit.overview.table.timestamp": "Time (UTC)",
-  // TODO New key - Add a translation
-  "audit.overview.table.timestamp": "Time (UTC)",
+  // TODO Review translation
+  "audit.overview.table.timestamp": "Heure (UTC)",
 
   // "audit.overview.breadcrumbs": "Audit Logs",
-  // TODO New key - Add a translation
-  "audit.overview.breadcrumbs": "Audit Logs",
+  // TODO Review translation
+  "audit.overview.breadcrumbs": "Journaux d'audit",
 
   // "audit.object.back": "Back",
-  // TODO New key - Add a translation
-  "audit.object.back": "Back",
+  // TODO Review translation
+  "audit.object.back": "Retour",
 
   // "audit.object.breadcrumbs": "Object Audit Logs",
   // TODO New key - Add a translation
@@ -1458,12 +1458,12 @@
   "audit.object.overview.title": "Object Audit Logs",
 
   // "audit.object.logs.label": "Logs for object: ",
-  // TODO New key - Add a translation
-  "audit.object.logs.label": "Logs for object: ",
+  // TODO Review translation
+  "audit.object.logs.label": "Journaux pour objet: ",
 
   // "audit.object.overview.disabled.message": "Audit feature is currently disabled",
-  // TODO New key - Add a translation
-  "audit.object.overview.disabled.message": "Audit feature is currently disabled",
+  // TODO Review translation
+  "audit.object.overview.disabled.message": "Fonction audit desactivée",
 
   // "auth.errors.invalid-user": "Invalid email address or password.",
   "auth.errors.invalid-user": "Adresse électronique ou mot de passe non valide.",
@@ -1815,12 +1815,12 @@
   "browse.title": "Parcourir par {{ field }}{{ startsWith }} {{ value }}",
 
   // "browse.taxonomy.show_next_results": "Show next results",
-  // TODO New key - Add a translation
-  "browse.taxonomy.show_next_results": "Show next results",
+  // TODO Review translation
+  "browse.taxonomy.show_next_results": "Résultats suivants",
 
   // "browse.taxonomy.show_previous_results": "Show previous results",
-  // TODO New key - Add a translation
-  "browse.taxonomy.show_previous_results": "Show previous results",
+  // TODO Review translation
+  "browse.taxonomy.show_previous_results": "Résultats précédents",
 
   // "browse.title.page": "Browsing by {{ field }} {{ value }}",
   "browse.title.page": "Parcourir par {{ field }} {{ value }}",
@@ -2122,12 +2122,12 @@
   "collection.form.errors.title.required": "Veuillez saisir un nom de collection",
 
   // "collection.form.errors.submissionDefinition.required": "Please choose a submission definition for this collection",
-  // TODO New key - Add a translation
-  "collection.form.errors.submissionDefinition.required": "Please choose a submission definition for this collection",
+  // TODO Review translation
+  "collection.form.errors.submissionDefinition.required": "Veuillez choisir une definition de soumission pour cette collection",
 
   // "collection.form.errors.entityType.required": "Please choose an entity type for this collection",
-  // TODO New key - Add a translation
-  "collection.form.errors.entityType.required": "Please choose an entity type for this collection",
+  // TODO Review translation
+  "collection.form.errors.entityType.required": "Veuillez choisir un type d'entité pour cette collection",
 
   // "collection.form.license": "License",
   "collection.form.license": "Licence",
@@ -2139,8 +2139,8 @@
   "collection.form.rights": "Texte de copyright (HTML)",
 
   // "collection.form.sharedWorkspace": "Shared workspace",
-  // TODO New key - Add a translation
-  "collection.form.sharedWorkspace": "Shared workspace",
+  // TODO Review translation
+  "collection.form.sharedWorkspace": "Espace du travail commun",
 
   // "collection.form.tableofcontents": "News (HTML)",
   "collection.form.tableofcontents": "Nouvelles (HTML)",
@@ -2152,16 +2152,16 @@
   "collection.form.entityType": "Type d'entité",
 
   // "collection.form.errors.entityType.required": "Please choose an entity type for this collection",
-  // TODO New key - Add a translation
-  "collection.form.errors.entityType.required": "Please choose an entity type for this collection",
+  // TODO Review translation
+  "collection.form.errors.entityType.required": "Veuillez choisir un type d'entité pour cette collection",
 
   // "collection.form.errors.submissionDefinition.required": "Please choose a submission definition for this collection",
-  // TODO New key - Add a translation
-  "collection.form.errors.submissionDefinition.required": "Please choose a submission definition for this collection",
+  // TODO Review translation
+  "collection.form.errors.submissionDefinition.required": "Veuillez choisir une definition de soumission pour cette collection",
 
   // "collection.form.submissionDefinition": "Submission definition",
-  // TODO New key - Add a translation
-  "collection.form.submissionDefinition": "Submission definition",
+  // TODO Review translation
+  "collection.form.submissionDefinition": "Definition de soumission",
 
   // "collection.form.correctionSubmissionDefinition": "Submission definition for correction request",
   // TODO New key - Add a translation
@@ -2589,20 +2589,20 @@
   "community.sub-community-list.head": "Sous-communautés au sein de cette communauté",
 
   // "confirmation-modal.pending-changes.header": "Unsaved changes",
-  // TODO New key - Add a translation
-  "confirmation-modal.pending-changes.header": "Unsaved changes",
+  // TODO Review translation
+  "confirmation-modal.pending-changes.header": "Modifications non sauvegardées",
 
   // "confirmation-modal.pending-changes.info": "There are unsaved changes. Do you want to leave the page?",
-  // TODO New key - Add a translation
-  "confirmation-modal.pending-changes.info": "There are unsaved changes. Do you want to leave the page?",
+  // TODO Review translation
+  "confirmation-modal.pending-changes.info": "Il y a des modifications non sauvegardées.  Veuillez-vous quitter la page?",
 
   // "confirmation-modal.pending-changes.cancel": "Cancel",
-  // TODO New key - Add a translation
-  "confirmation-modal.pending-changes.cancel": "Cancel",
+  // TODO Review translation
+  "confirmation-modal.pending-changes.cancel": "Annuler",
 
   // "confirmation-modal.pending-changes.confirm": "Leave",
-  // TODO New key - Add a translation
-  "confirmation-modal.pending-changes.confirm": "Leave",
+  // TODO Review translation
+  "confirmation-modal.pending-changes.confirm": "Quitter",
 
   // "context-menu.actions.audit-item.btn": "Audit",
   // TODO New key - Add a translation
@@ -3079,8 +3079,8 @@
   "error.top-level-communities": "Erreur lors de la récupération des communautés de 1er niveau",
 
   // "error.validation.license.required": "You must grant this license to complete your submission. If you are unable to grant this license at this time you may save your work and return later or remove the submission.",
-  // TODO New key - Add a translation
-  "error.validation.license.required": "You must grant this license to complete your submission. If you are unable to grant this license at this time you may save your work and return later or remove the submission.",
+  // TODO Review translation
+  "error.validation.license.required": "Vous devez approuver cette licence afin de finaliser votre sumissions. Si vous n'êtes pas en mesure d'approuver la licence pour le moment, vous pouvez souvegarder votre travail pour y revenir plus tard ou supprimer la soumission.",
 
   // "error.validation.cclicense.required": "You must grant this cclicense to complete your submission. If you are unable to grant the cclicense at this time, you may save your work and return later or remove the submission.",
   "error.validation.cclicense.required": "Vous devez approuver cette Licence Creative Commons afin de finaliser votre sumissions. Si vous n'êtes pas en mesure d'approuver la licence pour le moment, vous pouvez souvegarder votre travail pour y revenir plus tard ou supprimer la soumission.",
@@ -3276,8 +3276,8 @@
   "form.clear-help": "Cliquer ici pour supprimer la valeur sélectionnée",
 
   // "form.copy": "Duplicate",
-  // TODO New key - Add a translation
-  "form.copy": "Duplicate",
+  // TODO Review translation
+  "form.copy": "Dupliquer",
 
   // "form.discard": "Discard",
   "form.discard": "Rejeter",
@@ -3295,12 +3295,12 @@
   "form.first-name": "Prénom",
 
   // "form.group.add": "Add",
-  // TODO New key - Add a translation
-  "form.group.add": "Add",
+  // TODO Review translation
+  "form.group.add": "Ajouter",
 
   // "form.group.close": "Close",
-  // TODO New key - Add a translation
-  "form.group.close": "Close",
+  // TODO Review translation
+  "form.group.close": "Fermer",
 
   // "form.group.set": "Set",
   // TODO New key - Add a translation
@@ -3355,32 +3355,32 @@
   "form.other-information.orcid": "ORCID",
 
   // "form.other-information.person_identifier_orcid": "ORCID",
-  // TODO New key - Add a translation
+  // TODO Review translation
   "form.other-information.person_identifier_orcid": "ORCID",
 
   // "form.other-information.oairecerif_author_affiliation": "Affiliation",
-  // TODO New key - Add a translation
+  // TODO Review translation
   "form.other-information.oairecerif_author_affiliation": "Affiliation",
 
   // "form.other-information.oairecerif_editor_affiliation": "Affiliation",
-  // TODO New key - Add a translation
+  // TODO Review translation
   "form.other-information.oairecerif_editor_affiliation": "Affiliation",
 
   // "form.other-information.person_identifier_orcid": "ORCID iD",
-  // TODO New key - Add a translation
+  // TODO Review translation
   "form.other-information.person_identifier_orcid": "ORCID iD",
 
   // "form.other-information.institution-affiliation-name": "Affiliation(s)",
-  // TODO New key - Add a translation
+  // TODO Review translation
   "form.other-information.institution-affiliation-name": "Affiliation(s)",
 
   // "form.other-information.dc_relation_grantno": "Grant Number",
-  // TODO New key - Add a translation
-  "form.other-information.dc_relation_grantno": "Grant Number",
+  // TODO Review translation
+  "form.other-information.dc_relation_grantno": "Numéro de subvention",
 
   // "form.other-information.not-available": "Not available",
-  // TODO New key - Add a translation
-  "form.other-information.not-available": "Not available",
+  // TODO Review translation
+  "form.other-information.not-available": "Pas disponible",
 
   // "form.other-information.ror_orgunit_id": "ROR ID",
   // TODO New key - Add a translation
@@ -3450,16 +3450,16 @@
   "form.number-picker.increment": "Incrémenter {{field}}",
 
   // "form.number-picker.label.Year": "Year",
-  // TODO New key - Add a translation
-  "form.number-picker.label.Year": "Year",
+  // TODO Review Translation
+  "form.number-picker.label.Year": "Année",
 
   // "form.number-picker.label.Month": "Month",
-  // TODO New key - Add a translation
-  "form.number-picker.label.Month": "Month",
+  // TODO Review Translation
+  "form.number-picker.label.Month": "Mois",
 
   // "form.number-picker.label.Day": "Day",
-  // TODO New key - Add a translation
-  "form.number-picker.label.Day": "Day",
+  // TODO Review translation
+  "form.number-picker.label.Day": "Journée",
 
   // "form.repeatable.sort.tip": "Drop the item in the new position",
   "form.repeatable.sort.tip": "Déposer l'objet dans la nouvelle position",
@@ -3979,8 +3979,8 @@
   "item.edit.delete.confirmation-title": "Confirm deletion",
 
   // "item.edit.delete.confirmation-message": "Are you sure you want to permanently delete this item?",
-  // TODO New key - Add a translation
-  "item.edit.delete.confirmation-message": "Are you sure you want to permanently delete this item?",
+  // TODO Review translation
+  "item.edit.delete.confirmation-message": "Êtes-vous certain(e) de vouloir complètement supprimer cet item?",
 
   // "item.edit.delete.confirmation-detail": "This item may have been cited, has (or had) a persistent identifier (Handle/DOI), and deleting it may break scholarly references and external links.",
   // TODO New key - Add a translation
